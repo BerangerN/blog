@@ -4,6 +4,7 @@ A simplistic read-friendly blog template built with golden ratio.
 
 ## Demo
 
+THANKS to https://github.com/VJAI/fibonacci
 [https://vjai.github.io/fibonacci/index.html](https://vjai.github.io/fibonacci/index.html)
 
 ## Supported Browsers
